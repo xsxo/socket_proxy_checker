@@ -5,4 +5,4 @@
 <br/>
 use threading library to check mutli proxies in same time without thread race, data lose<br/>
 <br/>
-> **this is explain project to connection socket with local/global ips**<br/>
+> **this is explain repository to connection socket with local/global ips**<br/>
